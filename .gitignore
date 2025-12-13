@@ -2,6 +2,9 @@
 # tools/**
 # !tools/packages.config
 
+#Project appsettings.json that contains private information
+appsettings.json
+
 # Build outputs
 bin
 obj
